@@ -7,6 +7,6 @@ document.onreadystatechange = function() {
     } else {
         setTimeout(()=>{
             document.querySelector("#loader").style.display = "none";
-    }, 4000)
+    }, 2500)
     }
 };
