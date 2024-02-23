@@ -1760,7 +1760,7 @@ footer{
 
 @media(max-width: 285px) {
   #loader{
-    background-size: 25% auto;
+    background-size: 40% auto;
 
 }
 }
