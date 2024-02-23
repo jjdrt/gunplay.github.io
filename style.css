@@ -1755,4 +1755,5 @@ footer{
   height: 100%;
   overflow: visible;
   background: #000000 url("images/loadinggunplay.gif") no-repeat center center;
+  background-size: 18% auto;
 }
