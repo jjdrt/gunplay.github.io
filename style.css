@@ -1758,9 +1758,9 @@ footer{
   background-size: 15% auto;
 }
 
-@media(max-width: 285px) {
+@media(max-width: 600px) {
   #loader{
-    background-size: 75% auto;
+    background-size: 40% auto;
 
 }
 }
